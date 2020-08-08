@@ -1,0 +1,10 @@
+C:\private\QCRI\StrongestPathFinder\StrongestPathEngine\bin\Debug\StrongestPathEngine.dll
+C:\private\QCRI\StrongestPathFinder\StrongestPathEngine\bin\Debug\StrongestPathEngine.pdb
+C:\private\QCRI\StrongestPathFinder\StrongestPathEngine\obj\Debug\StrongestPathEngine.csprojResolveAssemblyReference.cache
+C:\private\QCRI\StrongestPathFinder\StrongestPathEngine\obj\Debug\StrongestPathEngine.dll
+C:\private\QCRI\StrongestPathFinder\StrongestPathEngine\obj\Debug\StrongestPathEngine.pdb
+C:\private\QCRI\StrongestPath Finder\Source Code\StrongestPathEngine\bin\Debug\StrongestPathEngine.dll
+C:\private\QCRI\StrongestPath Finder\Source Code\StrongestPathEngine\bin\Debug\StrongestPathEngine.pdb
+C:\private\QCRI\StrongestPath Finder\Source Code\StrongestPathEngine\obj\Debug\StrongestPathEngine.csprojResolveAssemblyReference.cache
+C:\private\QCRI\StrongestPath Finder\Source Code\StrongestPathEngine\obj\Debug\StrongestPathEngine.dll
+C:\private\QCRI\StrongestPath Finder\Source Code\StrongestPathEngine\obj\Debug\StrongestPathEngine.pdb
